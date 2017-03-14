@@ -8,7 +8,7 @@ Here's how to get things parsed into a MySQL database:
 
 1. Create database and insert schema.sql and then update config.php with correct credentials.
 2. Update config.php with correct raw log file to parse.
-3. Run `php parser.php`
+3. Run `php parse.php`
 
 ## View Results
 
