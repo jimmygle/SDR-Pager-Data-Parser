@@ -1,6 +1,6 @@
 <?php
 
-$fileToParse = '170302.log'; // Log file to parse
+$fileToParse = 'example.log'; // Log file to parse
 
 $logFile = 'parser-error.log'; // Parsing log file for messages unable to parse
 
