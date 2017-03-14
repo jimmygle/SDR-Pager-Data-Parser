@@ -15,4 +15,4 @@ Here's how to get things parsed into a MySQL database:
 Here's how to view the messages in an HTML formatted table:
 
 1. Start local PHP web server (in this dir): `php -S 0.0.0.0:1337`
-2. Open http://[your_ip]:1337/show.php
+2. Browse to `http://[your_ip]:1337/show.php`
